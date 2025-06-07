@@ -2,7 +2,7 @@
 
 ### 🎯 Objectif pédagogique
 
-Vous allez créer un petit moteur de recherche de films utilisant l’API publique de [TheMovieDB](https://developer.themoviedb.org/reference/intro/getting-started).
+Vous allez créer un petit moteur de recherche de films utilisant l’API publique de [omdbapi](https://www.omdbapi.com).
 <br>Cet exercice vous permettra de :
 
 * manipuler `HttpClient` et les `Observable`
@@ -54,7 +54,7 @@ Vous allez créer un petit moteur de recherche de films utilisant l’API publiq
 
 ### 🔑 Clé API
 
-> Créez un compte gratuit sur [https://www.themoviedb.org](https://www.themoviedb.org) puis récupérez votre clé API depuis votre tableau de bord développeur.
+> Créez un compte gratuit sur [https://www.omdbapi.com](https://www.omdbapi.com) puis récupérez votre clé API depuis votre tableau de bord développeur.
 > Vous en aurez besoin pour chaque requête (`api_key` dans les paramètres).
 
 ---
